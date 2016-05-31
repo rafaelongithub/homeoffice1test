@@ -1,3 +1,1 @@
-ruby = 30
-
-puts ruby
+Mudou
